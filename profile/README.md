@@ -13,6 +13,7 @@ The main part is the KiCad repository [oldschool-kicad-repository](https://githu
 |Name|Repository|Author|Versions|
 |:---|:---------|:-----|:------|
 |gpib-kicad-library|[https://github.com/Alba0404/gpib-kicad-library](https://github.com/Alba0404/gpib-kicad-library)|Alba0404|1.0.0-1.2.0|
+|tektronix-kicad-library|[https://github.com/Oldschool-Computers-KiCad-repository/tektronix-kicad-library](https://github.com/Oldschool-Computers-KiCad-repository/tektronix-kicad-library)|Alba0404|1.0.0|
 
 ### 1.2 Plugins
 |Name|Repository|Author|Versions|
