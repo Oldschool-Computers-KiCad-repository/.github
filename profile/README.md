@@ -24,7 +24,18 @@ The main part is the KiCad repository [oldschool-kicad-repository](https://githu
 |:---|:---------|:-----|:------|
 
 
-## 2. Contributions
+## 2. Installation
+  - Open KiCad and go to the **Plugin and Content Manager**.
+  - On the right click on the **Manage** button.
+  - Click on the crossed button to add a repository.
+  - Paste the *repository.json* URL :
+```
+https://raw.githubusercontent.com/Oldschool-Computers-KiCad-repository/oldschool-kicad-repository/main/repository.json
+```
+  - Click on **OK**, wait for KiCad to load the repository and then click on **Save**.
+
+
+## 3. Contributions
 Contributions are welcomed ! Please feel free to open an [Issue](https://github.com/Oldschool-Computers-KiCad-repository/oldschool-kicad-repository/issues)
 or a [Pull Request](https://github.com/Oldschool-Computers-KiCad-repository/oldschool-kicad-repository/pulls).  
 All modifications must follows the [KiCad Library Convention](https://klc.kicad.org/) or justify the violation.
@@ -32,7 +43,7 @@ All modifications must follows the [KiCad Library Convention](https://klc.kicad.
 If you want your library to be included in this KiCad repository, open a pull request, we will discuss about it.
 
 
-## 3. License
+## 4. License
 oldschool-kicad-repository (c) by [Alexandre Barrat](https://github.com/Alba0404) (Alba0404)  
 This KiCad repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/legalcode), with the following exception:
 > To the extent that the creation of electronic designs that use 'Licensed Material' can be considered to be 'Adapted Material', then the copyright holder waives article 3 of the license with respect to these designs and any generated files which use data provided as part of the 'Licensed Material'.
