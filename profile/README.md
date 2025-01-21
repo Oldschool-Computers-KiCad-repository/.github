@@ -1,7 +1,7 @@
 # Oldschool Computers KiCad Repository
 
-![Required KiCad Version](https://img.shields.io/badge/kicad-%3E%3D7.0-success)
-![Minimum KiCad Version](https://img.shields.io/badge/kicad-=6.0-orange)
+![Required KiCad Version](https://img.shields.io/badge/kKiCad-%3E%3D7.0-success)
+![Minimum KiCad Version](https://img.shields.io/badge/KiCad-=6.0-orange)
 ![License](https://img.shields.io/github/license/Oldschool-Computers-KiCad-repository/oldschool-kicad-repository)
 
 This organization is here to centralise all my libs for KiCad.  
