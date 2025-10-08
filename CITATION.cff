@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "BARRAT"
+  given-names: "Alexandre"
+  orcid: "https://orcid.org/0009-0008-7928-9711"
+title: "Oldschool Kicad Repository"
+version: 1.0.0
+date-released: 2025-10-08
+url: "https://github.com/Oldschool-Computers-KiCad-repository"
